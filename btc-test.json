@@ -1,0 +1,16 @@
+
+{
+  "name": "Bitcoin Simulation Test",
+  "symbol": "BTC-TEST",
+  "description": "TEST ONLY. Simulated Bitcoin token on Solana Devnet. Not real BTC. No monetary value.",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "Solana Devnet"
+    },
+    {
+      "trait_type": "Asset Type",
+      "value": "Simulation Test Token"
+    }
+  ]
+}
