@@ -1,6 +1,6 @@
 {
-  "name": "Bitcoin Simulation Test",
-  "symbol": "BTC-TEST",
+  "name": "Bitcoin",
+  "symbol": "BTC",
   "description": "TEST ONLY. Simulated Bitcoin token on Solana Devnet. Not real BTC. No monetary value.",
   "image": "https://raw.githubusercontent.com/wsafe12844/solana-test-token-metadata/main/btc-test.png",
   "attributes": [
